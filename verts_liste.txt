@@ -1,0 +1,68 @@
+06.01 BRÉLAZ Daniel, Syndic de la Ville de Lausanne, conseiller national
+06.02 PIDOUX Jean-Yves, Conseiller municipal, directeur des services industriels, député
+06.03 BERGMANN Sylvianne, Conseillère communale, juriste
+06.04 BIÉLER Benoît, Conseiller communal, géographe-urbaniste
+06.05 BONNARD Claude, Conseiller communal, chimiste
+06.06 BRÉLAZ–BUCHS Marie-Ange, Conseillère communale, mère au foyer
+06.07 CARREIRA Susana, Conseillère communale, juriste
+06.08 FERRARI Yves, Conseiller communal, président des Verts VD, député, architecte
+06.09 GEBHARDT André, Conseiller communal, menuisier, président de l’Union forestière
+06.10 GRABER Nicole, Conseillère communale, arch.-paysagiste, vice-prés. Pro Natura Vaud
+06.11 GRIN Claude Nicole, Conseillère communale, ethnologue/anthropologue
+06.12 HUGUENET François, Conseiller communal, coprésident de groupe, conseiller en communication
+06.13 LITZISTORF Natacha, Conseillère communale, directrice equiterre, Présidente Verts Lausanne
+06.14 MAYOR Isabelle, Conseillère communale, coprésidente de groupe, animatrice
+06.15 MICHAUD GIGON Sophie, Conseillère communale, membre de la direction de Pro Natura
+06.16 MÜLLER Elisabeth, Conseillère communale, ingénieure agronome
+06.17 NSENGIMANA Nkiko, Conseiller communal, politologue, Président commission gestion ASLOCA
+06.18 OSTERMANN Roland, Conseiller communal, mathématicien
+06.19 ROSSI Vincent, Conseiller communal, ingénieur EPFL, analyste environnemental
+06.20 SCHLACHTER Thomas, Conseiller communal, paysagiste-arboriste
+06.21 TREZZINI Giampiero, Conseiller communal, chef de projet, membre fondateur ass. écoquartier
+06.22 VELASCO Maria, Conseillère communale, conseillère sociale et mobilité UNIL
+06.23 BEAUD Valéry, Ingénieur EPFL en environnement
+06.24 BERGUERAND Anne, Technicienne en radiologie médicale
+06.25 BETTENS Eric, Informaticien de gestion HEC, consultant, Cdt cp Sécurité Civile
+06.26 BLEZON Derou Georges, Président du mouvement pour le respect et la dignité du noir
+06.27 BORREGO Joana, Spécialiste en communication, sociologue des médias
+06.28 BOUCHARLAT Isa, Fondatrice et gérante d’une boutique de mode éthique
+06.29 BOURDIN David, Ingénieur agronome
+06.30 BOZOVIC Tamara, Ingénieur en transports
+06.31 BURNIER OBONI Françoise, Enseignante primaire
+06.32 CHAVANNE Nathalie, Politologue
+06.33 CEUPPENS Teddy, Apprentie employée de commerce
+06.34 DIOUWARA Tidiane, Président du forum des étrangers/ères de Lausanne
+06.35 DUBAS Daniel, Responsable du programme de développement durable à la Confédération
+06.36 DUBUIS Aurélie, Politologue (développement territorial et mobilité)
+06.37 DURUZ Cyril, Actuaire
+06.38 ENGHEBEN Marco, Gestionnaire des finances et RH de l’association equiterre
+06.39 EVÉQUOZ Séverine, Ingénieure HES en gestion de la nature
+06.40 FUENTES Jean-Michel, Ingénieur, gestionnaire de portefeuilles
+06.41 GARBAR Elisabeth, Productrice de film, présidente de l’APE de Lausanne
+06.42 GENOUD Alice, Etudiante, assistante de projets dans l’association equiterre
+06.43 GERBEX Pauline, Bibliothécaire
+06.44 GIRARDET Lucas, Conseiller environnement, chef d’entreprise de vélos libre-service, député
+06.45 GRIS–PEDRAZZI Franca, Educatrice spécialisée
+06.46 GUERRY Marie-Claude, Enseignante au gymnase
+06.47 HAUERT Muriel, Enseignante au gymnase
+06.48 JOLIAT Julien, Spécialiste en marketing, sécurité privée
+06.49 JUNGE Anne-Laure, Géographe, rédactrice internet
+06.50 KAISER MORRIS Ximena, Enseignante, déléguée des Verts suisses aux Global Greens
+06.51 LAESSLÉ Melaine-Noé, Doctorant en politique publique et durabilité
+06.52 LAPIQUE Gaëlle, Politologue, responsable de projet, ONG de défense des droits humains
+06.53 MARTIN Olivier, Enseignant, délégué au Conseil des Suisses de l'étranger pour l'Afrique
+06.54 MELLINA Maxime, Etudiant en lettres
+06.55 MOUSSU Nils, Assistant en science politique à l’Université de Lausanne
+06.56 ÖRER Meryem, Interprète
+06.57 PEIRY Raphaël, Intermittent
+06.58 PORCHET Léonore, Etudiante, secrétaire des Verts lausannois, coprésidente FAE
+06.59 RAEDLER David, Avocat stagiaire
+06.60 RÄSS Etienne, Ingénieur en génie civil EPFL
+06.61 REBEAUD Laurent, Vice-président des Verts vaudois, ancien conseiller national
+06.62 REMY Magaly, Enseignante ACM/ACT
+06.63 ROCH Karine, Géologue, membre du comité ATE-Vaud
+06.64 RUDAZ Benjamin, Assistant en géosciences de l’environnement à l’UNIL
+06.65 SCHÄRER Kyong-Won, Juriste, assureuse
+06.66 SEIBT Jonathan, Diplômé de commerce
+06.67 WERTLI Félix, Géographe, responsable du projet Action de Carême
+06.68 ZRYD Claude, Institutrice
